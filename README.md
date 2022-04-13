@@ -1,3 +1,2 @@
 # Meme Generator
 
-## Practice
